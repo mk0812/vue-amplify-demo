@@ -7,6 +7,9 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "aws-amplify": "^1.2.4",
+    "aws-amplify-vue": "^0.3.3",
+    "element-ui": "^2.13.0",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
     "vue-property-decorator": "^8.3.0",
